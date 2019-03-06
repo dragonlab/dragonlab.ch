@@ -27,7 +27,9 @@ M1-Plaine du grand chêne :
 * *koopa troopa rouge*
 * *bruyinsecte*
 
-1-T Tour tic-tac:
+-maison toad rouge: para-bloc mystère
+
+-1-T Tour tic-tac:
 
 * rouage
 * broyeur
@@ -39,6 +41,7 @@ M1-Plaine du grand chêne :
 
 * colline roulante
 * yoshi
+- fleur de feu
 * topi taupe
 * piranha
 * goomba
@@ -85,6 +88,7 @@ Barrage piranha
 1-S L'antre secrète des bloups:
 
 - tuyau sous-pression mobile
+- fleur de feu
 - bloups
 - 1-2 tunnel turbulent:
 - Sauter au-dessus du quartz bleu du passage
@@ -92,6 +96,120 @@ du quartz rose.
 - 5-1 futaie futée
 
 -------------------------
+
+M2-Dune de miel:
+
+2-1 Sacrées cabroches:
+
+- cabroches
+- gland
+- dendinard
+- koopa troopa rouge
+- koopa troopa verte
+- para-koopa rouge
+- para-koopa verte
+- goomba
+
+2-2 Epiques pokeys:
+
+- sables mouvants
+- geysers de sables
+- partie dans l'obscurité
+- fleur de feu
+- pokeys
+- koopa rouge
+- swooper(chauve-souris)
+
+2-3 Tout feu tout flamme:
+
+- obscurité
+- ponton à balance avec lanterne à chaque bout
+- fleur de glace
+- bébé yoshi lumineux
+- serpenflamme
+- pyro piranha
+- frère pyro
+
+2-T Tour mouvante:
+
+- bloc à remontée mécanique activée par gouvernail au sol
+- fleur de glace
+- picos
+- skelerex
+- maxi-skelerex
+- *mabroule*
+- mister boum boum: saut tournoyant au début
+
+barrage goomba/frère pyro
+
+-maison toad verte: canon qui lance des cadre pouvoir ou bowser
+
+-----------------------------------------
+
+-maison toad rouge: placer bébé dans couleurs, chaque bébé yoshi possède un cadre pouvoir ou bowser
+
+-2-4 Désèrt aux geysers:
+
+- geysers de sables 
+- bloc mystère volant
+- fleur de glace
+- **spikes**
+- koopa rouge
+- para-koopa rouge
+- para-koopa verte
+
+-2-5 Pluie de pierres:
+
+- plateforme sur rails
+- champigon élargissant rose
+- gland
+- **spikarok**
+
+2-6 Mauvaise graine:
+
+- dunes roulantes
+- fleur de glace
+- lakitu à piranha
+- piranha 2
+- maxi-piranha
+
+2-C Château pilon de morton:
+
+- ruines mobiles
+- fleur de feu
+- skelerex
+- bulle de magma
+- maxi-skelerex
+- morton:envoie les deux premières boule de pockey sauter puis une rouler et les deux dernières rouler en même temps.3=les deux dernières saute en même temps.
+
+2-S Jardin d'hiver:
+
+- blocs de glaces qui tombe lorsqu'ils sont touchés par les boules de feu
+- fleur de feu
+- **pyro piranha**
+- 2-4 désèrt aux geysers:
+- après 3ème pièce étoile, il y a un totem sur lequel il y a un panneau d'indication. aller devant et foncer contre lui, il y a tuyau qui mène au drapeau.
+- 5-1 futaie futée
+
+-----------------------------
+
+M3-Mer mentalo
+
+3-1 Plage mentalo:
+
+- jet d'eau comme geysers de sables
+- fleur de glace
+- pincemi(bernard-l'ermite)
+- piranha
+- sheep-sheep
+
+
+
+
+
+
+
+
 
 
 
