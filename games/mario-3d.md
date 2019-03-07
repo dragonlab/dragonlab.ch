@@ -102,7 +102,7 @@ M2-Dune de miel:
 2-1 Sacrées cabroches:
 
 - cabroches
-- gland
+- fleur de feu
 - dendinard
 - koopa troopa rouge
 - koopa troopa verte
@@ -142,7 +142,7 @@ M2-Dune de miel:
 
 barrage goomba/frère pyro
 
--maison toad verte: canon qui lance des cadre pouvoir ou bowser
+-maison toad verte: canons envoye ballons pouvoir ou bowser
 
 -----------------------------------------
 
@@ -173,7 +173,7 @@ barrage goomba/frère pyro
 - piranha 2
 - maxi-piranha
 
-2-C Château pilon de morton:
+2-C Château pilon de Morton:
 
 - ruines mobiles
 - fleur de feu
@@ -193,8 +193,6 @@ barrage goomba/frère pyro
 
 -----------------------------
 
-M3-Mer mentalo
-
 3-1 Plage mentalo:
 
 - jet d'eau comme geysers de sables
@@ -202,6 +200,99 @@ M3-Mer mentalo
 - pincemi(bernard-l'ermite)
 - piranha
 - sheep-sheep
+
+3-2 Escale tropical
+
+- niveau sous-marin
+- tuyaus décoratifs partout
+- fleur de feu
+- **sheep-sheep**
+- maxi-oursins
+- oursins
+- bloups
+
+-maison toad verte:canons envoye ballons pouvoir/bowser
+
+-3-T Tour barbelée:
+
+- rondins épineux
+- mi sous-marins
+- fleur de glace
+- skelerex 
+- maxi-skelerex
+- mister boum-boum:saute. Quand proche de mario, fais saut tournoyant
+
+3-M Epave hantée:
+
+- caisse mobile/flottante en l'air
+- *barre de grimpe*
+- partie sous-marine
+- partie cachée dans des caisse
+- fleur de feu
+- boo
+- ossec(poisson squelette)
+- bloc mystère animé
+
+barrage sheep-sheep
+
+-bébé yoshi baudruche
+
+-3-3 Sheep-sheep en escadrille:
+
+- balancier de plateforme aérienne
+- jet d'eau
+- bloc donut
+- yoshi
+- para-sheep-sheep
+
+-3-4 Bassin aux oursins:
+
+- jet d'eau
+- mini-champi
+- **maxi-oursins**
+- koopa rouge
+- oursins
+- goomba
+
+3-5 Repaire de Dranguille
+
+- tuyau sous-pression
+- sol de sable mouvant
+- niveau sous-marins
+- fleur de feu
+- **Dranguille**
+- eep-sheep(jaune)
+- *bébés dranguilles*
+
+-maison toad rouge:bébé yoshi à mettre dans cadre correspondant en évitant les bébé yoshi avec bowser
+
+-3-C Château torpille de Larry:
+- grille
+- bill flamme
+- canon à ted torpille
+- partie sous-marine
+- fleur de glace
+- **ted torpille**
+- skelerex
+- maxi-skelerex
+- larry:envoie 1 sort. les jets d'eau apparaissent ainsi:
+- 3 normal
+- 3 avec celui du milieu plus haut
+- 2 haut
+- 2 normal et rapprochés
+3:2:3 avec celui du milieu plus bas
+
+3-S Sus au haricot!:
+
+- feuilles apparaissant sur le haricot deviennent orange puis tombent
+- liane horizontal se déroulant puis se renroulant
+- gland
+- dendinard
+- goomba accrochés à des ballons
+-3-M epave hantée:
+après panneau sur caisse dans la partie cachée,sauté au-dessus,un peu sur la gauche,faire saut mural et arriver sur caisse avec porte. prendre porte.
+-6-1 fuzzy en folie
+
 
 
 
