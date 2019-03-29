@@ -9,5 +9,8 @@ sections:
 - title: Dragons
   url: games/dragons.html
 
-- title: " "
+- title: Mario 3D
   url: games/mario-3d.html
+
+- title: Donkey Kong
+  url: games/donkey-kong-tropical-freeze.html
