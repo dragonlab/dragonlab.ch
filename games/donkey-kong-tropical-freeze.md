@@ -97,7 +97,7 @@ Balade à Bananopolis:
 - dodo bleu
 - libellule
 - ptibou
-- ptibou follet
+- ptibou de glace
 
 
 Marécage et fuselage:
@@ -118,7 +118,7 @@ Le jongleur tapageur:
 
 - cirque
 
-- boss:
+- boss:Otario, le hautain
 
 1ère phase:
 
@@ -142,7 +142,7 @@ Le jongleur tapageur:
 1:
 
 - roule 1 fois sur la rampe avant d'y glisser
-- une fois touché, il y a 8 gros gorfoufous qui sautent sur la rampe avant que la loutre y saute et y reste,
+- une fois touché, il y a 8 gros gorfoufous qui sautent sur la rampe avant qu'Otario y saute et y reste,
 étourdit, jusqu'a ce qu'on le touche
 
 2:
@@ -214,7 +214,7 @@ Turpitudes en altitude:
 - morsenaire bouclier
 - ptibou
 - grobou
-- ptibou follet
+- ptibou de glace
 
 
 Plateformes précaires:
@@ -237,7 +237,7 @@ Plateformes précaires:
 - ptibou
 - grobou
 - ptibou de feu
-- ptibou follet
+- ptibou de glace
 
 
 Bûches et embûches:
@@ -279,7 +279,105 @@ Ding dingue kong:
 
 - cloches
 - lianes tyrolliennes
-- plate
+- plateforme branlante
+
+- gorfoufou
+- gorfoufou casqué
+- gorfoufou à corne
+- gorfoufou archer
+- ptibou
+- grobou
+- ptibou de glace
+
+
+Grottes de gruyère:
+
+- grotte
+
+- lianes
+
+- rat
+- gorfoufou
+- gorfoufou casqué
+- gorfoufou à corne
+- gorfoufou lancier
+- laboïng
+- ptibou
+- ptibou de feu
+- ptibou de glace
+
+spécial: mène au 2-B sans passage secret
+
+
+Rongeurs ravageurs:
+
+- grotte/fusée
+
+- raclettes roulantes
+- blocs de fromages
+
+- rat
+
+
+Le hululeur des hauteurs:
+
+- caverne/sommet du pic/au-dessus des nuages
+
+- boss: Bouhouhou, le maboul
+
+1ère phase:caverne/2 plateforme l'une sur l'autre qui tombe quand on marche dessus, de chaque côtés de l'arène
+
+1:
+
+- envoie 2 fois 11 plumes qui s'étendent sur l'arène
+
+- lâche 3 oeufs sur l'arène qui renferment des oisillons puis 2 oeufs qui ne contiennent rien puis envoie 3 oeufs
+avec seulement un oisillon dans le dernier
+
+- utilise serres de glace
+
+2:
+
+- utilise aile de givre 2 fois
+
+- envoie 2. fois plumes qui s'étendent sur l'arène
+
+- lâche 3 fois 3 oeuf qui renferment des oisillons puis 2 oeufs qui ne contiennent rien puis envoie 3 oeufs
+avec seulement un oisillon dans le dernier
+
+- utilise serres de glace
+
+2ème phase:sommet du pic sur plateformes à hélices/2 canons de chaque côtés
+
+- utilise vent:
+
+- fais venir 1 oisillon puis 3 chouettes qui peuvent servir d'escalier > répète ça 2 fois puis fais venir 1 
+oisillon
+
+- utilise serres de glace
+
+- envoie 2 fois des séries de 22 plumes qui tombent sur l'arène
+
+- envoie 2 fois des séries de 3 oeufs qui lâche 1 oisillon, 1 chouette et rien
+
+- utilise serres de glace
+
+3ème phase:au-dessus des nuages sur plateformes à hélices
+
+1:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
