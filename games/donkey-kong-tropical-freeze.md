@@ -1,10 +1,9 @@
-
+---
+layout: article
+---
 
 
 ## Donkey kong country tropical freeze
-
-
-
 
 #### Mangrove perdue:
 
@@ -142,7 +141,7 @@ Le jongleur tapageur:
 1:
 
 - roule 1 fois sur la rampe avant d'y glisser
-- une fois touché, il y a 8 gros gorfoufous qui sautent sur la rampe avant qu'Otario y saute et y reste,
+- une fois touché, il y a 8 grofoufous qui sautent sur la rampe avant qu'Otario y saute et y reste,
 étourdit, jusqu'a ce qu'on le touche
 
 2:
@@ -154,7 +153,7 @@ Le jongleur tapageur:
 
 1:
 
-- fais venir 3 gros gorfoufous qui glissent devant lui sur la rampe
+- fais venir 3 grofoufous qui glissent devant lui sur la rampe
 - une fois touché, il envoie 1 dorade, 1 oursins puis à nouveau 1 dorade
 
 2:
@@ -163,7 +162,7 @@ Le jongleur tapageur:
 
 3:
 
-- fais venir 3 gros gorfoufou qui glissent devant lui sur la rampe
+- fais venir 3 grofoufous qui glissent devant lui sur la rampe
 - une fois touché, il meurt
 
 
@@ -211,7 +210,7 @@ Turpitudes en altitude:
 - laboïng
 - morsenaire
 - morsenaire casqué
-- morsenaire bouclier
+- morsicus
 - ptibou
 - grobou
 - ptibou de glace
@@ -233,7 +232,7 @@ Plateformes précaires:
 - gorfoufou à corne
 - gorfoufou lancier
 - laboïng casqué
-- morsenaire bouclier
+- morsicus
 - ptibou
 - grobou
 - ptibou de feu
@@ -365,6 +364,190 @@ oisillon
 3ème phase:au-dessus des nuages sur plateformes à hélices
 
 1:
+
+- envoie 10 plumes loin, 6 plumes à mi-parcour et 7 plumes près puis passe de l'autre côté et envoie 10 plumes
+loin, 8 plumes près, 10 plumes loin et 8 plume à mi-parcour
+- fais venir 9 chouettes à cornes dont 1 groupe de 3 et 2 groupe de 1 viennent sur la plateforme, puis les 2 groupe 
+de 2 arrivent
+- refais venir 9 chouettes et cette fois 1 groupe de 2 et 1 groupe 3 se détachent du rang,puis les 2 groupe de
+2 arrivent
+- même chose sauf que les 2 1er groupes se sont inversé les places et que le dernier du groupe de 3 et le dernier
+du 2ème groupe de 2 sont des oisillons
+- utilise serre de glace
+
+2:
+- fais tomber 4 oeufs géants contenant 3 chouettes casquée et 1 5ème contenant Bouhouhou lui-même, étourdi
+- utilise 4 fois ailes de givre
+
+3:
+- envoie 10 plumes loin, 8 plumes près, 6 à mi-parcour et 10 loin, puis passe de l'autre côté et envoie 10 loin,
+6 à mi-parcour et 8 près
+- fais venir des chouettes casquée dont 1 groupe de 3 et 1 groupe de 2 viennent sur l'arène puis 2 groupe de 2 
+aussi
+- au tour de 2 groupe de 1 et groupe de 3 viennent avec 2 groupe de 2
+- et finalement 1 groupe de 1 1 groupe de 3 et 1 oisillon puis 2 groupe de 2 avec le 2ème possédant 1 oisillon
+en 1ère place
+- utilise serre de glace
+
+
+####Savane ensoleillée:
+
+Carnaval animal:
+
+- savane
+
+- statues en toile d'animaux dansantes
+- baobabs dansants
+- figure d'animaux à liane
+- serpents de pierre
+- tonneaux épineux
+
+- oiseau
+- gorfoufou
+- gorfoufou à corne
+- gorfoufou lancier
+- laboïng
+- grobou
+
+
+Graines d'engraines:
+
+- savane
+
+- graines à pics roulantes
+- fleurs balançantes
+- lierres
+- lianes
+- graine géante à pics
+- cactus
+
+- oiseau
+- taureau
+- gorfoufou
+- gorfoufou casqué
+- gorfoufou à corne
+- laboïng
+- ptibou 
+- ptibou de feu
+- ptibou de glace
+- morsenaire
+
+
+Cyclone cyclique:
+
+- haboob
+
+- cactus
+- baobabs dansants
+- tornade
+- rambi
+
+- oiseau
+- porc-épic
+- gorfoufou
+- gorfoufou à corne
+- rempart gorfoufou
+- gorfoufou archer
+- laboïng
+- ptibou
+- morsenaire casqué
+
+
+Brousailles embrasées:
+
+- feu de forêt
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
